@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.9",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5"
+  },
+  "scripts": {
+    "dev": "nodemon --ignore \"./data\" server.js",
+    "start": "node server.js"
+  }
+}
