@@ -1,15 +1,23 @@
 [
     {
+        "title": "Bug Title",
+        "severity": 3,
+        "_id": "HaBQjE"
+    },
+    {
+        "title": "123",
+        "severity": 1,
+        "_id": "dAeCvU"
+    },
+    {
+        "title": "test2",
+        "severity": 4,
+        "_id": "aNDBVr"
+    },
+    {
         "_id": "abc123",
         "title": "Cannot save a Car",
         "severity": 3,
         "description": "I cannot save a car in the database. I get an error message saying 'Cannot save a car'."
-    },
-    {
-        "_id": "def456",
-        "title": "Search function returns incorrect results",
-        "severity": 2,
-        "createdAt": 1542207425631,
-        "description": "When searching for items, the results don't match the search criteria. Some relevant items are missing while irrelevant ones are included."
     }
 ]

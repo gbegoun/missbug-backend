@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.1.0",
-    "nodemon": "^3.1.9",
     "cookie-parser": "^1.4.7",
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   },
   "scripts": {
     "dev": "nodemon --ignore \"./data\" server.js",
